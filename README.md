@@ -8,7 +8,7 @@ I am a recent Computer Science graduate based in the NYC area with a focus on **
 | :--- | :--- |
 | **Languages** | Java, Python, JavaScript, TypeScript, C, SQL, Swift, Bash, HTML/CSS |
 | **Testing & QA** | Selenium, Playwright, Cypress, Cucumber, Jest, JUnit, Postman, Wireshark |
-| **Web Frameworks and Libraries** | React, Node.js, Vue.js, Vite, TailwindCSS, Chart.js, Plotly |
+| **Web Frameworks & Libraries** | React, Node.js, Vue.js, Vite, TailwindCSS, Chart.js, Plotly |
 | **Databases & DevOps** | MongoDB, MySQL, Git, Jenkins, Azure Repos, Jira, Nginx |
 
 ### 🚀 Highlights
