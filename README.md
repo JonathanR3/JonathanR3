@@ -13,8 +13,8 @@ I am a recent Computer Science graduate based in the NYC area with a focus on **
 
 ### 🚀 Highlights
 
-* **QA Automation Intern @ NYC Mayor's Office:** Engineered Java/BDD automation scripts that reduced test execution time by 50% for the PASSPort application.
-* **Member @ Stony Brook's WebGen VIP Team:** Developed interactive dashboards using Plotly and Mapbox to visualize over 10,000 healthcare data points.
+* **QA Automation Intern @ NYC Mayor's Office Of Contract Services:** Engineered Java/BDD automation scripts that reduced test execution time by 50% for the PASSPort application.
+* **Member @ WebGen VIP Team (Stony Brook University):** Developed interactive dashboards using Plotly and Mapbox to visualize over 10,000 healthcare data points.
 * **Instructor @ iD Tech Camps:** Taught Python and Java fundamentals to students, guiding them through hands-on game development projects.
 
 
