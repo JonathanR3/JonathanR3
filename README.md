@@ -14,10 +14,8 @@ I am a recent Computer Science graduate based in the NYC area with a focus on **
 ### 🚀 Highlights
 
 * **QA Automation Intern @ NYC Mayor's Office:** Engineered Java/BDD automation scripts that reduced test execution time by 50% for the PASSPort application.
-* **Senior Capstone (Parking System):** Built a full-stack MERN application with Stripe payment integration and load testing for 1,000+ concurrent users.
-* **Biomedical Data Viz (WebGen VIP):** Developed interactive dashboards using Plotly and Mapbox to visualize over 10,000 healthcare data points.
-* **iD Tech Instructor:** Taught Python and Java fundamentals to students, guiding them through hands-on game development projects.
-* **PokeDB Personal Project:** Created a responsive Pokémon dictionary app using React and Vite with dynamic routing and search filtering.
+* **Member @ Stony Brook's WebGen VIP Team:** Developed interactive dashboards using Plotly and Mapbox to visualize over 10,000 healthcare data points.
+* **Instructor @ iD Tech Camps:** Taught Python and Java fundamentals to students, guiding them through hands-on game development projects.
 
 
 ### 📫 Connect with Me
