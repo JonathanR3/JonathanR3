@@ -21,4 +21,3 @@ I am a recent Computer Science graduate based in the NYC area with a focus on **
 ### 📫 Connect with Me
 
 * **LinkedIn:** [linkedin.com/in/jorong](https://www.linkedin.com/in/jorong/)
-* **Portfolio:** [github.com/JonathanR3](https://github.com/JonathanR3)
